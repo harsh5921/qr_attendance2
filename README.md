@@ -1,4 +1,4 @@
-**image output of student module**
+**Image output of Student module**
 
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/4dcfe40f-bffd-4e6a-905f-dc302febdb8c)
@@ -7,7 +7,7 @@
 ![Screenshot (12)](https://github.com/user-attachments/assets/3137d308-5986-4e92-acf9-15fe79cd163a)
 
 
-**image output of teacher module**
+**Image output of Teacher module**
 
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/ea8e49c8-e92e-4fd9-a316-3e7860af587a)
@@ -18,7 +18,7 @@
 ![Screenshot (6)](https://github.com/user-attachments/assets/1827032a-c12f-413d-9814-06bc28add0a5)
 
 
-**image output of admin module**
+**Image output of Admin module**
 
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/81e4d8ad-ac33-4840-b7d0-4b7f700b6cd0)
